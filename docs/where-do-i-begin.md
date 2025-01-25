@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-title: Intro
+title: Where Do I Begin?
 hide_title: true
 sidebar_label: Intro
 ---
