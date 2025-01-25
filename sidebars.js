@@ -2,7 +2,7 @@ module.exports = {
   tutorialSidebar: [
     {
       type: 'category',
-      label: 'Topical Talk Beginner\'s Guide',
+      label: 'Topical Talk Festival Guide',
       items: [
         'intro',
         'what-is-topical-talk',
