@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Topical Talk Beginner\'s Guide',
+  title: 'Topical Talk Guide',
   tagline: 'Your guide to succeeding in the Topical Talk Festival.',
   url: 'https://topical-talk-guide.io',
   baseUrl: '/Topical-Talk-Festival-Guide/',
