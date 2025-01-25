@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-title: Intro
+title: What is Topical Talk?
 hide_title: true
 sidebar_label: Intro
 ---
