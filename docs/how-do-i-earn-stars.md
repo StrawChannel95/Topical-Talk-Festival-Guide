@@ -1,6 +1,6 @@
 ---
 sidebar_position: 5
-title: Intro
+title: How Do I Earn Stars?
 hide_title: true
 sidebar_label: Intro
 ---
