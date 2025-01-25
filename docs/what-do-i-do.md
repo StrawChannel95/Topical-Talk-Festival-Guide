@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-title: Intro
+title: What do I do?
 hide_title: true
 sidebar_label: Intro
 ---
