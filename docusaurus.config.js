@@ -2,7 +2,7 @@ module.exports = {
   title: 'Topical Talk Beginner\'s Guide',
   tagline: 'Your guide to succeeding in the Topical Talk Festival.',
   url: 'https://topical-talk-guide.io',
-  baseUrl: '/Topical-Talk-Beginner-s-Guide/',
+  baseUrl: '/Topical-Talk-Festival-Guide//',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   organizationName: 'StrawChannel95',
